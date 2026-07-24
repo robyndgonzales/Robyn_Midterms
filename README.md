@@ -1,1 +1,1 @@
-##Midterms Lab Activities
+Midterms Lab Activities
