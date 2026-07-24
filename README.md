@@ -1,1 +1,1 @@
-# week7
+Midterms Lab Activities
